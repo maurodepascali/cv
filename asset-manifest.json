@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.16d8a885.css",
+    "main.js": "/cv/static/js/main.99297631.js",
+    "static/js/453.5333ad58.chunk.js": "/cv/static/js/453.5333ad58.chunk.js",
+    "static/media/portfolio1.png": "/cv/static/media/portfolio1.3cee93504ec9df9738cd.png",
+    "static/media/portfolio4.png": "/cv/static/media/portfolio4.12695018eca8ed3450df.png",
+    "static/media/portfolio3.png": "/cv/static/media/portfolio3.457a84aee90bc564a73e.png",
+    "static/media/cv.pdf": "/cv/static/media/cv.b5564f34337f7d7e4b6c.pdf",
+    "static/media/11.jpeg": "/cv/static/media/11.b6cf7c6b8b7ad75a2435.jpeg",
+    "static/media/odontologiaProyecto.JPG": "/cv/static/media/odontologiaProyecto.a35b1ed0476b46f89cb0.JPG",
+    "static/media/sistemaUsuarios.JPG": "/cv/static/media/sistemaUsuarios.e2c62810141894d1d89b.JPG",
+    "index.html": "/cv/index.html",
+    "main.16d8a885.css.map": "/cv/static/css/main.16d8a885.css.map",
+    "main.99297631.js.map": "/cv/static/js/main.99297631.js.map",
+    "453.5333ad58.chunk.js.map": "/cv/static/js/453.5333ad58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d8a885.css",
+    "static/js/main.99297631.js"
+  ]
+}
