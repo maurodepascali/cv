@@ -36,3 +36,60 @@
     transform: rotate(360deg);
   }
 }
+
+.mobile-menu {
+  background-color: #162d41;
+  position: fixed;
+  top: 80px; /* Ajusta según la altura de tu navbar */
+  left: 0;
+  right: 0;
+  padding: 1rem;
+  z-index: 40;
+  border-radius: 0 0 1rem 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.mobile-menu a, 
+.mobile-menu button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  margin: 0.5rem 0;
+  text-align: center;
+  border-radius: 0.375rem;
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  /* Header responsivo */
+  .header-content {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  /* Cuando el menú está abierto */
+  .menu-open {
+    overflow: hidden;
+  }
+
+  /* Overlay para el menú */
+  .menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 40;
+  }
+}
+
+/* Estilos para desktop */
+@media (min-width: 769px) {
+  .header-content {
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
